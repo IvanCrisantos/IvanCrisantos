@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
 **IvanCrisantos/IvanCrisantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Ivan Crisantos 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🏫 About Me
+
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in Brooklyn → Raised in Williamsburg → Currently in Brownsville.
+- Outside of work I like to 
+- Let's connect via email: ivancrisantos41@gmail.com
+
+## Tech Stack:
+
+### Languages
+
+- Python
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
