@@ -6,7 +6,7 @@
 
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
 - Born in Brooklyn → Raised in Williamsburg → Currently in Brownsville.
-- Outside of work I like to 
+- Outside of work I like to watch sports
 - Let's connect via email: ivancrisantos41@gmail.com
 
 ## Tech Stack:
